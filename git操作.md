@@ -1,3 +1,6 @@
+##### 1.常用git命令
+
+```
 git init 初始化
 
 git add */<filename> 放在暂存区
@@ -41,3 +44,5 @@ git stash 保存当前的状态
 git stash list 查看保存的状态列表
 
 git stash apply 恢复
+```
+
